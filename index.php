@@ -385,9 +385,9 @@
     <div class="col-sm-5">
       <p>Contact us and we'll get back to you within 24 hours.</p>
       <p><span class="glyphicon glyphicon-map-marker"></span> Dhaka , Bangladesh</p>
-      <p><span class="glyphicon glyphicon-phone"></span> +880 1521329765</p>
-      <p><span class="glyphicon glyphicon-envelope"></span> samdanianik49@gmail.com</p>
-      <p><img src="Facebook.jpg" alt="Facebook" width="10" height="10"><a href="https://www.facebook.com/samdani.anik.49">Facebook Page </a></p>
+      <p><span class="glyphicon glyphicon-phone"></span> +880 1521209551</p>
+      <p><span class="glyphicon glyphicon-envelope"></span> sabbiralrazi@gmail.com</p>
+      <p><img src="Facebook.jpg" alt="Facebook" width="10" height="10"><a href="https://www.facebook.com/sabbir.alraji.1">Facebook Page </a></p>
     </div>
     
     </div>
